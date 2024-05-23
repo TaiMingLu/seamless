@@ -46,10 +46,6 @@ Get RM Reward for all retrived answers
 python policy/get_prob.py --model_lists [rm_step1 rm_step2, ...] --rm_models_dir <rm_dir> --output_dir <SEAM_dir>/SEAM_<SEAM_VARIATNT>.json
 ```
 
-
-### RM
-
-
 ## Model Training
 
 ### SFT Training
