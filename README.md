@@ -25,6 +25,7 @@ python retrival.py --rl_questions_dir <rl_questions_dir> --data_dir <data_dir> -
 
 ### Adversarial Attacks
 ```
+cd adv
 python retrival.py --rl_questions_dir <rl_questions_dir>  --data_dir <data_dir> --output_dir <SEAM_dir> 
 ```
 
