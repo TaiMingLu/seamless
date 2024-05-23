@@ -1,0 +1,10 @@
+transformers
+accelerate
+datasets
+peft
+sentence_transformers
+torch
+tqdm
+numpy
+faiss
+textattack
